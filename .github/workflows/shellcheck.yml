@@ -1,4 +1,4 @@
-name: Shell checker
+name: Magisk
 
 on:
   push:
